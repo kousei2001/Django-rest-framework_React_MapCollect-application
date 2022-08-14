@@ -1,0 +1,1 @@
+# Django-rest-framework_React_MapCollect-application
